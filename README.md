@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/38592977/202592388-700a3c81-118a-4f6e-baf7-1bd53e29bcff.png)
 # Walmart-sales-project
  Walmart is a renowned retail corporation that operates a chain of hypermarkets. Here, Walmart has provided a data combining of 45 stores including store information and monthly sales. The data is provided on weekly basis. Walmart tries to find the impact of holidays on the sales of store.
 ## Problem :
